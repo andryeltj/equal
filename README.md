@@ -2,6 +2,7 @@
 A Love2d calculator with Historic, Tabs and Save.
 
 ## Como usar:
+ ** Use o teclado físico ou numérico para operar.
  - **Del**			-	Limpa todo as as expressões feitas.
  - **Backspace**		-	Apaga o ultimo caractere inserido
  - **Ctrl + C**		-	Copia o conteudo da tela pra área de transferencia
