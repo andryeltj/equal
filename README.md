@@ -30,8 +30,6 @@ Provisóriamente só realizando as 4 operações principais ( + - x ÷ ) e expon
 
 Desenvolvido usando a linguagem ![Lua](https://www.lua.org/docs.html) e o motor ![Love2d](https://love2d.org/).
 
-# ***Ainda em estágio de finalização.***
-
 Obrigado.
 
 
