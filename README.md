@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/andryeltj/equal/main/res/equal512.png" width="64" height="64" /> Equal
-A Love2d calculator with Historic, Tabs and Save.
+A Calculator with Historic, Tabs and Save.
 
 ## Como usar:
  ** Use o teclado físico ou numérico para operar.
